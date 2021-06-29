@@ -50,7 +50,7 @@ public interface UsuarioControllerDoc {
 
 - Também foi implementada a camada DTO (Data Transfer Object) para manter a consistência da arquitetura e integridade das entidades providas pelo banco de dados.
 
-  <img src="D:\controle-ponto\img\esquema.jpg" alt="esquema" style="zoom:50%;" />
+  <img src="img\esquema.jpg" alt="esquema" style="zoom:50%;" />
 
   
 
